@@ -42,4 +42,4 @@ def dbquery(usr_id):
                 logging.info('Connection closed')
 
 if __name__ == '__main__': 
-    print(dbquery(123))
+    print(dbquery(122))
